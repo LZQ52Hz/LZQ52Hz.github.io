@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>电子学</title>
+    <url>/2023/11/05/auto/0/01%E7%AC%AC%E4%B8%80%E7%AB%A0/</url>
+    <content><![CDATA[<html><head></head><body><p>本文主要介绍电子学的一些基本概念 <span id="more"></span></p>
+<p>如同简单发射极接地放大器一样，有时也想要一个具有很高增益的单级差分放大器。一种很好的解决方法如图1.2
+所示，采用镜像电流源作为有源负载。图中Q1Q2，是具有发射极电流源的差分对，Q3与Q4是一个电流源，构成集电极负载。</p>
+<p>由这个镜像电流源提供的高集电极负载电阻提供一个高达5000或更高的电压增益（假设放大器输出端空载）。这种放大器通常只用于反馈环内部，或作为比较器（将在下节讨论）。一定要记住这种放大器要加高阻抗负载，否则它的增益将大幅度下降。</p>
+<figure>
+<img src="/2023/11/05/auto/0/01%E7%AC%AC%E4%B8%80%E7%AB%A0/img.png" alt="图1.1: 差分放大器可用做精确单端直流放大器">
+<figcaption aria-hidden="true">图1.1:
+差分放大器可用做精确单端直流放大器</figcaption>
+</figure>
+<figure>
+<img src="/2023/11/05/auto/0/01%E7%AC%AC%E4%B8%80%E7%AB%A0/img2.PNG" alt="图1.2: 差分放大器可用做精确单端直流放大器">
+<figcaption aria-hidden="true">图1.2:
+差分放大器可用做精确单端直流放大器</figcaption>
+</figure>
+<p><a class="link" href="https://github.com/LZQ52Hz/Note.git/./Learn/电子学/01第一章/01第一章.md">源文件来自于<i class="fas fa-external-link-alt"></i></a></p>
+</body></html>]]></content>
+      <categories>
+        <category>电子学</category>
+      </categories>
+      <tags>
+        <tag>电子学</tag>
+      </tags>
+  </entry>
+</search>
